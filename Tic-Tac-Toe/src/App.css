@@ -1,0 +1,11 @@
+.flex {
+  display: flex;
+}
+button {
+  border: none;
+  background-color: #d1d1d1;
+  margin: 1px;
+  width: 60px;
+  height: 60px;
+  font-size: 40px;
+}
